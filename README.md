@@ -1,2 +1,2 @@
 #Sass Basics
-Fork and clone this repo, and run npm install in the root folder.
+Fork and clone this repo. Run npm install and then run gulp in the root folder.
